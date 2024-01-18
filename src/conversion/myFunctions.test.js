@@ -83,3 +83,5 @@ test("are ALL the strings long?", () => {
         areAllStringsLong(["Charlotte", "Toni", "Margaret", "Virginia"])
     ).toEqual(false);
 });
+
+// =========== kata that are done
